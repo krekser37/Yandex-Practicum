@@ -22,21 +22,9 @@ body {
 
 }
 
-.header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-}
-.header__title {
-  text-align: left;
-  width: 730px;
-}
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
+
+
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
@@ -78,14 +66,15 @@ div {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin-bottom: 30px;
 }
 
 .two-columns_span-accent {
   font-weight: bold;
 }
 
-.two-columns__paragraph-indent {
-  margin-top: 30px;
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
 }
 .section-title {
   width: 60%;
