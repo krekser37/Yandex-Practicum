@@ -1,4 +1,13 @@
 .header__title {
-  text-align: left;
+  position: relative;
+  display: flex;
+  align-items: center;
   width: 730px;
+  margin-left: 64px;
+  font-size: 102px;
+  font-weight: 96px;
+
+  z-index: 3;
+
+  outline: 1px solid rgb(48, 45, 224);
 }

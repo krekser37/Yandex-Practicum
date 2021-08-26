@@ -2,5 +2,6 @@
 .table_theme_dark {
   background-color: black;
   color: white;
-  border-radius: 10px;
+  z-index: 2;
+  /* margin: 90px auto; */
 }

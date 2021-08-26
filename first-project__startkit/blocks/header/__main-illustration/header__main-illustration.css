@@ -1,0 +1,18 @@
+.header__main-illustration{
+  position: absolute;
+  object-fit: cover;
+  z-index: 2;
+  width: 765px;
+  height: 608px;
+  right: 0;
+  bottom: 0;
+  outline: 1px solid red;
+/*   background-size: contain;
+  object-position: center;
+  background-position: center bottom; */
+/* /*   -o-object-fit: cover; /*Элемент масштабируется, чтобы целиком уместиться в заданные размеры с соблюдением пропорций. */
+  /* background-size: cover;   *//* Масштабирует изображение с сохранением пропорций так, чтобы его ширина или высота равнялась ширине или высоте блока. */
+/*   background-repeat: no-repeat; */
+/*   object-position: center; */
+  /* -o-object-fit: scale-down; */ */ */
+}

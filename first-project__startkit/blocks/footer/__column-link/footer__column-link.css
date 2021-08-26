@@ -1,0 +1,17 @@
+.footer__column-link {
+  font-size: 18px;
+  font-weight: 18px;
+  font-weight: normal;
+  list-style-type: none;
+  display: flex;
+  margin: 10px;
+  align-items:flex-start;
+  text-decoration: none;
+  color:white;
+}
+
+
+
+/* .footer__column-link:last-child {
+  margin-bottom: 0;
+} */
