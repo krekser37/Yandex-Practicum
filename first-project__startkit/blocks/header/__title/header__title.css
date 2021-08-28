@@ -5,9 +5,7 @@
   width: 730px;
   margin-left: 64px;
   font-size: 102px;
-  font-weight: 96px;
-
+  line-height: 96px;
+  font-weight: bold;
   z-index: 3;
-
-  outline: 1px solid rgb(48, 45, 224);
 }

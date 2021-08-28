@@ -1,6 +1,6 @@
 .footer__column-link {
   font-size: 18px;
-  font-weight: 18px;
+  line-height: 18px;
   font-weight: normal;
   list-style-type: none;
   display: flex;
@@ -11,7 +11,8 @@
 }
 
 
+.footer__column-link:hover {
+  opacity: 0.5;
+  transition: 1s;
+}
 
-/* .footer__column-link:last-child {
-  margin-bottom: 0;
-} */

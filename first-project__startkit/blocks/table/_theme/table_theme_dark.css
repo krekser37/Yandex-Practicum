@@ -1,7 +1,6 @@
 
 .table_theme_dark {
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   z-index: 2;
-  /* margin: 90px auto; */
 }

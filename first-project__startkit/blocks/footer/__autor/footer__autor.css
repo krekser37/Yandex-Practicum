@@ -1,9 +1,6 @@
 .footer__autor {
   margin: 18px 18px 18px 0px;
   font-size: 18px;
-  font-weight: 25px;
+  line-height: 25px;
   font-weight: normal;
- /*  position: absolute;
-  left: 0;
-  bottom: 18px; */
 }
